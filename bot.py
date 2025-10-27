@@ -20,7 +20,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Get token from environment variable
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8292852232:AAEOpy7njAq8IkfgEcHfCsLNJFpWN1p932A")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8292852232:AAGk47XqZKocBTT3je-gco0NOPUr1I3TrC0")
 API_URL = "https://pkans.ct.ws/fetch.php?aadhaar="
 
 class AadharInfoBot:
